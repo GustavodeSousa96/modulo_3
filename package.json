@@ -1,0 +1,23 @@
+{
+  "name": "projetoind_mod3",
+  "version": "1.0.0",
+  "description": "Aqui estão os meus projetos do módulo 3 do Senac/Resília.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GustavodeSousa96/projetoInd_mod3.git"
+  },
+  "keywords": [],
+  "author": "Gustavo de Sousa dos Santos Cerqueira",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GustavodeSousa96/projetoInd_mod3/issues"
+  },
+  "homepage": "https://github.com/GustavodeSousa96/projetoInd_mod3#readme",
+  "dependencies": {
+    "json-server": "^0.17.1"
+  }
+}
