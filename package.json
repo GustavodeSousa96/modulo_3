@@ -2,8 +2,9 @@
   "name": "projetoind_mod3",
   "version": "1.0.0",
   "description": "Aqui estão os meus projetos do módulo 3 do Senac/Resília.",
-  "main": "index.js",
+  "main": "server.js",
   "scripts": {
+    "start":"node ./server.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
